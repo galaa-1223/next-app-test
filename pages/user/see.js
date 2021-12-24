@@ -13,7 +13,7 @@ export default function See() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">See page!</a>
+          Welcome to <a href="https://nextjs.org">See Updated page!</a>
         </h1>
 
         <p className={styles.description}>
